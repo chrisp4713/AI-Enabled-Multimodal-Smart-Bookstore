@@ -1,0 +1,35 @@
+{
+  "manager": {
+    "username": "manager",
+    "display_name": "Store Manager",
+    "role": "SU",
+    "balance": 0.0,
+    "warnings": 0,
+    "purchase_count": 0,
+    "total_spent": 0.0,
+    "status": "active",
+    "suspension_reason": ""
+  },
+  "vip_vera": {
+    "username": "vip_vera",
+    "display_name": "Vera (VIP)",
+    "role": "VC",
+    "balance": 150.0,
+    "warnings": 0,
+    "purchase_count": 0,
+    "total_spent": 0.0,
+    "status": "active",
+    "suspension_reason": ""
+  },
+  "reader_ray": {
+    "username": "reader_ray",
+    "display_name": "Ray (Customer)",
+    "role": "RC",
+    "balance": 50.0,
+    "warnings": 0,
+    "purchase_count": 0,
+    "total_spent": 0.0,
+    "status": "active",
+    "suspension_reason": ""
+  }
+}
