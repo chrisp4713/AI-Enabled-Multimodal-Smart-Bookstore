@@ -1,0 +1,92 @@
+[
+    {
+        "Title": "Pride and Prejudice",
+        "id": 1342,
+        "Author": "Jane Austen",
+        "Category": "Fiction, English Literature",
+        "Pub_year": "1998-06-01T04:00:00.000Z",
+        "Cover_img": "https://web.archive.org/web/20261110024247/https://www.gutenberg.org/cache/epub/1342/images/cover.jpg ",
+        "Description": "\n\"Pride and Prejudice\" by Jane Austen is a novel published in 1813. It follows Elizabeth Bennet, who must learn to see past first impressions and hasty judgments. With five daughters and an estate that can only pass to male heirs, the Bennet family faces financial pressure to marry well. When wealthy Mr. Darcy arrives in their countryside neighborhood, his pride and Elizabeth's prejudice set the stage for misunderstandings, hidden truths, and unexpected revelations about character and love."
+    },
+    {
+        "Title": "Frankenstein; or, The modern Prometheus",
+        "id": 84,
+        "Author": "Mary Wollstonecraft Shelley",
+        "Category": "English Literature, Science Fiction, Gothic Fiction, Fiction",
+        "Pub_year": "1993-10-01T04:00:00.000Z",
+        "Cover_img": "https://web.archive.org/web/20261110043404/https://www.gutenberg.org/cache/epub/84/pg84-images.html",
+        "Description": "\"Frankenstein; Or, The Modern Prometheus\" by Mary Wollstonecraft Shelley is a Gothic novel published in 1818. It tells the story of Victor Frankenstein, a young scientist who creates a living creature from assembled body parts in an unorthodox experiment. When the creature awakens, Victor flees in horror, abandoning his creation. The conscious being must navigate a world that fears him, learning language and seeking connection, only to face repeated rejection. Embittered and alone, the creature confronts his creator with a desperate request that will set both on a dark path of vengeance and tragedy."
+    },
+    {
+        "Title": "The Adventures of Sherlock Holmes ",
+        "id": 1661,
+        "Author": "Arthur Conan Doyle",
+        "Category": "Detective Fiction, Crime/Thrillers/Mystery, British Literature",
+        "Pub_year": "1999-03-01T05:00:00.000Z",
+        "Cover_img": "https://web.archive.org/web/20261109214740/https://www.gutenberg.org/cache/epub/1661/pg1661-images.html",
+        "Description": "\"The Adventures of Sherlock Holmes\" by Arthur Conan Doyle is a collection of short stories first published in 1892. These twelve tales feature the legendary consulting detective Sherlock Holmes and his companion Dr. Watson, narrated from Watson's perspective. Each mystery explores social injustices while showcasing Holmes's brilliant deductive methods and unconventional approach to justice. The stories introduce memorable characters and cases that have captivated readers for over a century, establishing Holmes as one of literature's most enduring detectives."
+    },
+    {
+        "Title": "Dracula",
+        "id": 345,
+        "Author": "Bram Stoker",
+        "Category": "Horror, Gothic Fiction, Mystery Fiction, Science Fiction, Fantasy, Crime/Thrillers/Mystery, Classics of Literature",
+        "Pub_year": "2025-09-24T04:00:00.000Z",
+        "Cover_img": "https://web.archive.org/web/20261112214326im_/https://www.gutenberg.org/cache/epub/345/images/cover.jpg",
+        "Description": "\"Dracula\" by Bram Stoker is a Gothic horror novel published in 1897. Told through letters, diary entries, and newspaper articles, the story follows solicitor Jonathan Harker's terrifying encounter with Count Dracula in Transylvania. When the vampire Count travels to England and begins preying on victims in Whitby, a small group led by Professor Abraham Van Helsing must hunt him down. This seminal work of Gothic fiction has become the centrepiece of vampire literature, profoundly shaping the popular conception of vampires for generations."
+    },
+    {
+        "Title": "A Tale of Two Cities",
+        "id": 98,
+        "Author": "Charles Dickens",
+        "Category": "Historical Fiction, Classics of Literature, British Literature",
+        "Pub_year": "1994-01-01T05:00:00.000Z",
+        "Cover_img": "https://web.archive.org/web/20261110002323/https://www.gutenberg.org/cache/epub/98/pg98-images.html",
+        "Description": "\"A Tale of Two Cities\" by Charles Dickens is a historical novel published in 1859. Set in London and Paris during the tumultuous French Revolution, it follows Dr. Alexandre Manette after his mysterious 18-year imprisonment in the Bastille and his reunion with his daughter Lucie. Their lives become entangled with a French aristocrat fleeing his heritage and a dissolute English lawyer who harbors secret devotion. Against the backdrop of revolutionary terror and violence, personal sacrifices and hidden connections shape their intertwined fates."
+    },
+    {
+        "Title": "The Complete Works of William Shakespeare",
+        "id": 100,
+        "Author": "William Shakespeare",
+        "Category": "Plays/Films/Dramas, Poetry, Classics of Literature, British Literature",
+        "Pub_year": "1994-01-01T05:00:00.000Z",
+        "Cover_img": "https://web.archive.org/web/20261112010157/https://www.gutenberg.org/cache/epub/100/pg100-images.html",
+        "Description": "\"The Complete Works of William Shakespeare\" by William Shakespeare is a comprehensive collection containing all of Shakespeare's plays and poems. This standard volume gathers the playwright's entire output, including histories, tragedies, and comedies that have shaped literature for centuries. Some editions feature collaborative works with other writers, though their authorship remains debated. Published by numerous academic presses and major publishers, these collected editions have become prized possessions for book collectors, often released in luxurious leather-bound formats that preserve Shakespeare's timeless literary legacy."
+    },
+    {
+        "Title": "The Great Gatsby",
+        "id": 64317,
+        "Author": "F. Scott Fitzgerald",
+        "Category": "Novels, Classics of Literature, American Literature",
+        "Pub_year": "2021-01-17T05:00:00.000Z",
+        "Cover_img": "https://web.archive.org/web/20261110173135/https://www.gutenberg.org/cache/epub/64317/pg64317-images.html",
+        "Description": "\"The Great Gatsby\" by F. Scott Fitzgerald is a novel published in 1925. Set in the Jazz Age on Long Island, it follows narrator Nick Carraway as he becomes drawn into the world of his mysterious neighbor, Jay Gatsby, a wealthy millionaire who throws extravagant parties. Gatsby harbors an obsession with reuniting with Daisy Buchanan, a woman from his past now married to the affluent Tom. The story captures the glamour, excess, and moral complexities of 1920s America."
+    },
+    {
+        "Title": "The Iliad",
+        "id": 6130,
+        "Author": "Homer",
+        "Category": "Poetry, Classics of Literature, \"Mythology, Legends & Folklore\",  Classical Antiquity",
+        "Pub_year": "2004-07-01T04:00:00.000Z",
+        "Cover_img": "https://web.archive.org/web/20261113045036/https://www.gutenberg.org/cache/epub/6130/pg6130-images.html",
+        "Description": "\"The Iliad\" by Homer is an ancient Greek epic poem composed around the late 8th or early 7th century BC. Set during the final weeks of the ten-year Trojan War, it follows the devastating anger of Achilles, the greatest Greek warrior, sparked by a bitter quarrel with King Agamemnon. As pride and wrath collide, the conflict escalates from personal dispute to battlefield tragedy, culminating in the death of Troy's champion, Hector. Gods intervene, heroes clash, and the fate of nations hangs in the balance."
+    },
+    {
+        "Title": "The Green Mouse",
+        "id": 10441,
+        "Author": "Robert W. Chambers",
+        "Category": "Romance, Humour, Novels, American Literature",
+        "Pub_year": "2003-12-01T05:00:00.000Z",
+        "Cover_img": "https://web.archive.org/web/20260826055207/https://www.gutenberg.org/cache/epub/10441/pg10441-images.html",
+        "Description": "\"The Green Mouse\" by Robert W. Chambers is a novel written during the early 20th century. The story introduces a young man forced to confront his privileged yet idle life after facing financial ruin. He grapples with his lack of practical skills and contemplates a career as a magician, leveraging his unusual talents to entertain others. The narrative begins to develop his relationship with a young artist who shares a complex bond with him as they both navigate their personal struggles. At the start of the novel, readers meet a disheartened young man reeling from his family's financial collapse and his own failure to secure a stable future. Apathetic about work and life choices, he begins to consider using his talent for magic as a profession despite not being sure of its acceptance in society. This phase of his life is marked by a chance encounter with a spirited girl in Central Park, leading to a tense moment when she loses control of her horse. Their interaction ignites an immediate but complicated connection as they become intertwined in each other's lives. As the opening progresses, the groundwork is laid for both a comedic and romantic narrative, where themes of financial struggle, aspiration, and serendipity intertwine, setting the tone for their evolving relationship."
+    },
+    {
+        "Title": "",
+        "id": "",
+        "Author": "",
+        "Category": "Horror, Science Fiction, Fantasy, Crime/Thrillers/Mystery, American Literature",
+        "Pub_year": "2005-07-01T04:00:00.000Z",
+        "Cover_img": "https://web.archive.org/web/20260918013633/https://www.gutenberg.org/cache/epub/8492/pg8492-images.html",
+        "Description": "\"The King in Yellow\" by Robert W. Chambers is a collection of short stories published in 1895. The book opens with supernatural horror tales connected by a forbidden play that drives readers to madness. A mysterious entity called the King in Yellow, an eerie Yellow Sign, and the cursed play itself haunt the first four stories, set in a future 1920s America and Paris. The collection gradually shifts tone, ending with romantic tales, but the opening horror stories have earned acclaim as classics of weird fiction."
+    }
+]
