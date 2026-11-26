@@ -9,7 +9,7 @@ An AI-enabled, multimodal bookstore application built for our Software Engineeri
 | Team Member | Module |
 |---|---|
 | **Alyssa Johnson** | Frontend UI & System Integration (`app/`) |
-| **Christopher Persaud** | Face/voice login & Picture Search | (`ai/`)
+| **Christopher Persaud** | Face/voice login & Picture Search (`ai/`) |
 | **Sahadat Amzad** | Backend Accounts, Purchases & Finance Reporting (`core/`) |
 | **Jin Chao** | Backend Catalog, Ratings & Admin Lists (`catalog/`) |
 | **Jessica Barrera Saguay** | LLM/RAG Chat Assistant, Book Q&A & Documentation (`llm/`, `rag_docs/`) |
